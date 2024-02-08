@@ -41,6 +41,8 @@
             <artifactId>selenium-support</artifactId>
             <version>4.7.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
     </dependencies>
 
 
